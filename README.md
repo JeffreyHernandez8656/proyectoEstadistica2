@@ -2,7 +2,10 @@
 
 ## Integrantes:
 Nestor Jeffrey Hernandez Ruiz - 2215108
+
 Leider Joanny Esteban Lozano - 2215003
+
+Milton Andres Monsalve Ayala - 2204004
 
 Este repositorio contiene el proyecto final de la materia **Estadística II**, centrado en el análisis de datos relacionados con los hábitos y el rendimiento académico de estudiantes.
 
